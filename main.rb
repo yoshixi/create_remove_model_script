@@ -12,4 +12,5 @@ models.each do |el|
   puts "rm app/models/#{singule}.rb"
   puts "rm spec/models/#{singule}_spec.rb"
   puts "rm spec/factories/#{plural}.rb"
+  puts ""
 end

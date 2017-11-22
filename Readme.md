@@ -3,7 +3,7 @@
 # usege
 
 ```
-git clone 
+git clone git@github.com:yoshixj/create_remove_model_script.git
 
 bundle install --path vendor/bundle
 
@@ -21,9 +21,11 @@ model, model, model
 rm app/models/model.rb
 rm spec/models/model_spec.rb
 rm spec/factories/models.rb
+
 rm app/models/model.rb
 rm spec/models/model_spec.rb
 rm spec/factories/models.rb
+
 rm app/models/model.rb
 rm spec/models/model_spec.rb
 rm spec/factories/models.rb
