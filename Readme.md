@@ -29,5 +29,9 @@ rm spec/factories/models.rb
 rm app/models/model.rb
 rm spec/models/model_spec.rb
 rm spec/factories/models.rb
+
+drop_table: models
+drop_table: models
+drop_table: models
 ```
 
